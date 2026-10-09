@@ -1,0 +1,59 @@
+com.example.bogotaparques.app-ui-geometry-release-0 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\0fb62c71e024794650aedf2e70aafb89\workspace\transformed\ui-geometry-release\res
+com.example.bogotaparques.app-lifecycle-viewmodel-compose-release-1 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\1182db5efbcf36f8d4d5c8fdf27ae6b6\workspace\transformed\lifecycle-viewmodel-compose-release\res
+com.example.bogotaparques.app-material-release-2 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\13d76e7246235eb435cb0e0ae26f205a\workspace\transformed\material-release\res
+com.example.bogotaparques.app-lifecycle-runtime-compose-release-3 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\184e0c350d99f5453bb36317d32fbf4e\workspace\transformed\lifecycle-runtime-compose-release\res
+com.example.bogotaparques.app-navigation-runtime-2.8.5-4 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\1b9c68b625e0ea4feab7b87f4920cde5\workspace\transformed\navigation-runtime-2.8.5\res
+com.example.bogotaparques.app-lifecycle-viewmodel-ktx-2.8.7-5 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\1f1e716501a21492d955b211080fc782\workspace\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.example.bogotaparques.app-savedstate-ktx-1.2.1-6 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\29a6cbfcfc40e8e9589d1f64ab74b9c8\workspace\transformed\savedstate-ktx-1.2.1\res
+com.example.bogotaparques.app-lifecycle-livedata-core-ktx-2.8.7-7 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\2e9a9db5f5f3e6dcfe63d60755eb7705\workspace\transformed\lifecycle-livedata-core-ktx-2.8.7\res
+com.example.bogotaparques.app-annotation-experimental-1.4.1-8 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\31539824f4eb0dfe119e7020811d510a\workspace\transformed\annotation-experimental-1.4.1\res
+com.example.bogotaparques.app-customview-poolingcontainer-1.0.0-9 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\34aec390d13de73d452b279b4a709b85\workspace\transformed\customview-poolingcontainer-1.0.0\res
+com.example.bogotaparques.app-ui-tooling-data-release-10 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\35954f6ab5d9f9e93c5f50910100c642\workspace\transformed\ui-tooling-data-release\res
+com.example.bogotaparques.app-emoji2-1.3.0-11 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\3cd76a9f7990a3ae63adb639af6b5f85\workspace\transformed\emoji2-1.3.0\res
+com.example.bogotaparques.app-navigation-common-2.8.5-12 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\3f0db1441a48af9a92800e0ef71d5634\workspace\transformed\navigation-common-2.8.5\res
+com.example.bogotaparques.app-activity-ktx-1.9.3-13 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\4297df337f24343b44ad3988cb8b5dc3\workspace\transformed\activity-ktx-1.9.3\res
+com.example.bogotaparques.app-navigation-common-ktx-2.8.5-14 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\43f7db444e5aa1cf0479dea1398b8cbd\workspace\transformed\navigation-common-ktx-2.8.5\res
+com.example.bogotaparques.app-animation-core-release-15 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\504b4bc758abaaaf9623b50141a0eb0b\workspace\transformed\animation-core-release\res
+com.example.bogotaparques.app-ui-text-release-16 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\57c3265c197b7431a7a64b39bc17760e\workspace\transformed\ui-text-release\res
+com.example.bogotaparques.app-material3-release-17 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\59a5db7c7e024ab92f19ad544b008a99\workspace\transformed\material3-release\res
+com.example.bogotaparques.app-lifecycle-runtime-ktx-release-18 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\5d8d025845ba540b5df5ac6df63af8c8\workspace\transformed\lifecycle-runtime-ktx-release\res
+com.example.bogotaparques.app-play-services-base-18.5.0-19 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\60801047f2fc6990a9cbf20f3d7b032e\workspace\transformed\play-services-base-18.5.0\res
+com.example.bogotaparques.app-ui-tooling-preview-release-20 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\62d2b68959ff28dbf924e373115906a5\workspace\transformed\ui-tooling-preview-release\res
+com.example.bogotaparques.app-navigation-compose-2.8.5-21 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\676802a88d408adc1b98396a6be68660\workspace\transformed\navigation-compose-2.8.5\res
+com.example.bogotaparques.app-foundation-release-22 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\69affddb486feffcb389e8d11045e84f\workspace\transformed\foundation-release\res
+com.example.bogotaparques.app-lifecycle-runtime-release-23 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\6e1241d0817a695a8dbf6283550d4359\workspace\transformed\lifecycle-runtime-release\res
+com.example.bogotaparques.app-activity-compose-1.9.3-24 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\6e7cd399c0266481d85bf93cf31f6323\workspace\transformed\activity-compose-1.9.3\res
+com.example.bogotaparques.app-lifecycle-livedata-2.8.7-25 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\7050945e721bca5ecab87e96ecc0ae92\workspace\transformed\lifecycle-livedata-2.8.7\res
+com.example.bogotaparques.app-core-ktx-1.15.0-26 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\746053d6571312e771b2930d6e1276ac\workspace\transformed\core-ktx-1.15.0\res
+com.example.bogotaparques.app-lifecycle-viewmodel-savedstate-2.8.7-27 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\82b75f024098758b2128abc2519cd3bb\workspace\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.example.bogotaparques.app-core-runtime-2.2.0-28 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\85d6df99ae244fd1b2d3e46db82631cb\workspace\transformed\core-runtime-2.2.0\res
+com.example.bogotaparques.app-graphics-path-1.0.1-29 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\8a0523abb22e319cdfd4e7d8af840a23\workspace\transformed\graphics-path-1.0.1\res
+com.example.bogotaparques.app-animation-release-30 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\92be85a07b30fa3bb112d5eec6cc9a3c\workspace\transformed\animation-release\res
+com.example.bogotaparques.app-material-ripple-release-31 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\95fa05984f299bc0d5bd431d14351abb\workspace\transformed\material-ripple-release\res
+com.example.bogotaparques.app-lifecycle-viewmodel-release-32 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\968f163524c48ac377a12696810004f8\workspace\transformed\lifecycle-viewmodel-release\res
+com.example.bogotaparques.app-ui-util-release-33 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\9b6aaeff0d9f5a48a6950ebcc4686f68\workspace\transformed\ui-util-release\res
+com.example.bogotaparques.app-ui-unit-release-34 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\a30f78cc47862caf6e9ce52a688d355b\workspace\transformed\ui-unit-release\res
+com.example.bogotaparques.app-startup-runtime-1.1.1-35 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\a97e3fdb38638c9838bfe68b0533de7e\workspace\transformed\startup-runtime-1.1.1\res
+com.example.bogotaparques.app-runtime-saveable-release-36 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\b8ad91311978283e0ca0fac00c26339e\workspace\transformed\runtime-saveable-release\res
+com.example.bogotaparques.app-ui-tooling-release-37 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\bde90d5b1ee7b146e7900064a3ec8ef1\workspace\transformed\ui-tooling-release\res
+com.example.bogotaparques.app-core-1.15.0-38 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\c04cb13beb158ea9c96687a08c85be25\workspace\transformed\core-1.15.0\res
+com.example.bogotaparques.app-play-services-basement-18.4.0-39 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\c47eb3ef2b42342c1bd25a0a9dea518f\workspace\transformed\play-services-basement-18.4.0\res
+com.example.bogotaparques.app-profileinstaller-1.3.1-40 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\c66a4b21ee373c8fb280a74ae60961eb\workspace\transformed\profileinstaller-1.3.1\res
+com.example.bogotaparques.app-runtime-release-41 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\c6a453589d89675346065a84c1ab302d\workspace\transformed\runtime-release\res
+com.example.bogotaparques.app-tracing-1.2.0-42 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\cb9d849729bcbda3ea92b234dc2d6955\workspace\transformed\tracing-1.2.0\res
+com.example.bogotaparques.app-foundation-layout-release-43 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\ccde2b30a2b13a1b8cb3b824c1ecab22\workspace\transformed\foundation-layout-release\res
+com.example.bogotaparques.app-material-icons-core-release-44 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\cdd6a0ae65a60844a062d1e57a2fcac8\workspace\transformed\material-icons-core-release\res
+com.example.bogotaparques.app-savedstate-1.2.1-45 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\ceef76ec2d39f11990ecdc501d91c4e0\workspace\transformed\savedstate-1.2.1\res
+com.example.bogotaparques.app-navigation-runtime-ktx-2.8.5-46 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\d3866a1741bbc21215a1bda31e3d9610\workspace\transformed\navigation-runtime-ktx-2.8.5\res
+com.example.bogotaparques.app-ui-graphics-release-47 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\db6466d9e6e70717e47bf72f2ee2dfa5\workspace\transformed\ui-graphics-release\res
+com.example.bogotaparques.app-activity-1.9.3-48 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\dcd67ec8bda05240339823216ca5f8ee\workspace\transformed\activity-1.9.3\res
+com.example.bogotaparques.app-lifecycle-process-2.8.7-49 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\ef856f892b1c60a8a7161ebd6cf8b820\workspace\transformed\lifecycle-process-2.8.7\res
+com.example.bogotaparques.app-ui-release-50 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\f8c182ccbc86a2efd11870a36ca2eb97\workspace\transformed\ui-release\res
+com.example.bogotaparques.app-lifecycle-livedata-core-2.8.7-51 C:\Users\ASUSPROGRAMACION\.gradle\caches\9.3.0\transforms\fe1bcf05dede80edffb2efd98362f48b\workspace\transformed\lifecycle-livedata-core-2.8.7\res
+com.example.bogotaparques.app-pngs-52 C:\workspace\ABROAD APP\BogotaParquesApp\app\build\generated\res\pngs\debug
+com.example.bogotaparques.app-resValues-53 C:\workspace\ABROAD APP\BogotaParquesApp\app\build\generated\res\resValues\debug
+com.example.bogotaparques.app-packageDebugResources-54 C:\workspace\ABROAD APP\BogotaParquesApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.bogotaparques.app-packageDebugResources-55 C:\workspace\ABROAD APP\BogotaParquesApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.bogotaparques.app-debug-56 C:\workspace\ABROAD APP\BogotaParquesApp\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.bogotaparques.app-debug-57 C:\workspace\ABROAD APP\BogotaParquesApp\app\src\debug\res
+com.example.bogotaparques.app-main-58 C:\workspace\ABROAD APP\BogotaParquesApp\app\src\main\res

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- app/src/main/AndroidManifest.xml -->
+<!-- El Manifest es la "cédula" de la app: declara permisos, componentes y configuración. -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- PERMISO PELIGROSO (dangerous): ubicación PRECISA por GPS (~3-10 m).
+         Declararlo aquí NO basta: desde Android 6 (API 23) también hay que pedirlo
+         en TIEMPO DE EJECUCIÓN con un diálogo que el usuario acepta o rechaza. -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <!-- Ubicación APROXIMADA (~1-3 km, por redes Wi-Fi/celulares).
+         Desde Android 12 es OBLIGATORIO declararla junto a FINE: el usuario
+         puede elegir "Aproximada" en el diálogo del sistema. -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <!-- Indica que la app USA GPS pero no lo exige: si el dispositivo no tiene GPS,
+         la app igual se puede instalar (required="false"). -->
+    <uses-feature
+        android:name="android.hardware.location.gps"
+        android:required="false" />
+
+    <application
+        android:allowBackup="true"
+        android:label="Bogotá Parques"
+        android:icon="@android:drawable/ic_dialog_map"
+        android:supportsRtl="true"
+        android:theme="@android:style/Theme.Material.Light.NoActionBar">
+        <!-- label: nombre bajo el ícono; icon: ícono de sistema (para no requerir recursos propios);
+             theme: tema base sin barra superior (Compose dibuja su propia TopAppBar). -->
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <!-- exported="true": el launcher del sistema (otra app) puede abrir esta Activity. -->
+            <intent-filter>
+                <!-- MAIN + LAUNCHER = esta Activity es el punto de entrada y aparece en el menú de apps -->
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>
