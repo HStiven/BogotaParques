@@ -20,8 +20,10 @@ import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.example.bogotaparques.data.ParksRepository
+import com.example.bogotaparques.ui.theme.BogotaParquesTheme
 
 /**
  * VENTANA 3: Detalle del parque.
@@ -87,4 +89,15 @@ fun DetailScreen(parkId: Int, onBack: () -> Unit) {
 @Composable
 private fun InfoRow(label: String, value: String) {
     Text("$label: $value", style = MaterialTheme.typography.bodyMedium)
+}
+
+@Preview(showBackground = true)
+@Composable
+private fun DetailScreenPreview() {
+    BogotaParquesTheme {
+        DetailScreen(
+            parkId = 1,
+            onBack = {}
+        )
+    }
 }

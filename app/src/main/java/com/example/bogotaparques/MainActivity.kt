@@ -5,7 +5,10 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
+import androidx.compose.runtime.Composable
+import androidx.compose.ui.tooling.preview.Preview
 import com.example.bogotaparques.navigation.AppNavigation
+import com.example.bogotaparques.ui.screens.HomeScreen
 import com.example.bogotaparques.ui.theme.BogotaParquesTheme
 
 /**
@@ -26,5 +29,17 @@ class MainActivity : ComponentActivity() { // ComponentActivity: base mínima co
                 AppNavigation()    // Raíz de la UI: el grafo de navegación
             }
         }
+    }
+}
+
+@Preview(showBackground = true)
+@Composable
+fun HomeScreenPreview() {
+    BogotaParquesTheme {
+        HomeScreen(
+            onParksClick = {},
+            onNearMeClick = {},
+            onProfileClick = {}
+        )
     }
 }

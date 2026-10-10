@@ -27,7 +27,9 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
+import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
+import com.example.bogotaparques.ui.theme.BogotaParquesTheme
 
 /**
  * VENTANA 1: Menú principal.
@@ -104,5 +106,17 @@ private fun MenuCard(title: String, subtitle: String, icon: ImageVector, onClick
                 Text(subtitle, style = MaterialTheme.typography.bodySmall)
             }
         }
+    }
+}
+
+@Preview(showBackground = true)
+@Composable
+private fun HomeScreenPreview() {
+    BogotaParquesTheme {
+        HomeScreen(
+            onParksClick = {},
+            onNearMeClick = {},
+            onProfileClick = {}
+        )
     }
 }

@@ -35,8 +35,10 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.tooling.preview.Preview
 import androidx.core.content.ContextCompat
 import com.example.bogotaparques.data.ParksRepository
+import com.example.bogotaparques.ui.theme.BogotaParquesTheme
 import com.google.android.gms.location.LocationCallback
 import com.google.android.gms.location.LocationRequest
 import com.google.android.gms.location.LocationResult
@@ -238,5 +240,16 @@ private fun startLocationUpdates(
     // Bonus: la última ubicación conocida suele llegar al instante (evita esperar el primer "fix").
     client.lastLocation.addOnSuccessListener { location ->
         location?.let { callback.onLocationResult(LocationResult.create(listOf(it))) }
+    }
+}
+
+@Preview(showBackground = true)
+@Composable
+private fun NearMeScreenPreview() {
+    BogotaParquesTheme {
+        NearMeScreen(
+            onBack = {},
+            onOpenPark = {}
+        )
     }
 }
